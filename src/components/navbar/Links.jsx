@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "./Link";
-import { VStack, HStack, Text } from "@chakra-ui/react";
+import { VStack, Text } from "@chakra-ui/react";
 import { sources } from "../../data/sources";
 
 export const Links = ({ isOpen }) => {
