@@ -1,4 +1,4 @@
-import { Stack, HStack, Spacer, Heading, Box, Text } from "@chakra-ui/layout";
+import { Stack, HStack, Spacer, Heading, Box } from "@chakra-ui/layout";
 
 const subjects = [
   { title: "Development", icon: "💻", color: "blue" },
