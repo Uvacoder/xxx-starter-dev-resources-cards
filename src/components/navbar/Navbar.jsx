@@ -11,7 +11,7 @@ export const Navbar = ({ onClick, isOpen }) => {
   return (
     <>
       <Nav>
-        <Title>.sources</Title>
+        <Title>Resources</Title>
         <Spacer />
         <MenuButton icon={isOpen ? <BsX /> : <BsList />} onClick={onClick} />
       </Nav>
